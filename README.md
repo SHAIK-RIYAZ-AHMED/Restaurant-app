@@ -41,7 +41,6 @@ Open admin.html for the restaurant interface.
 kotlin
 Copy code
 
-```markdown
 ## Usage
 
 1. **Customer Side**:
@@ -51,8 +50,6 @@ Copy code
 2. **Restaurant Side**:
    - Access the restaurant interface via `admin.html`.
    - Monitor and manage incoming orders.
-markdown
-Copy code
 ## Contributing
 
 We welcome contributions to improve the Restaurant Ordering App! To contribute:
@@ -61,16 +58,14 @@ We welcome contributions to improve the Restaurant Ordering App! To contribute:
 2. Create a new branch for your feature or fix.
 3. Commit your changes and push them to your fork.
 4. Create a pull request with a description of your changes.
-markdown
-Copy code
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-markdown
-Copy code
 ## Contact
 
 For any questions or feedback, please reach out to the project maintainer:
 
 - **Name**: Shaik Riyaz Ahmed
-- **Email**: [shaikriyaz1551@gmail.com]
+- **Email**: [shaikriyaz1551@gmail.com](mailto:shaikriyaz1551@gmail.com)
+
